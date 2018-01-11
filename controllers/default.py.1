@@ -1,0 +1,200 @@
+# -*- coding: utf-8 -*-
+# this file is released under public domain and you can use without limitations
+
+# -------------------------------------------------------------------------
+# This is a sample controller
+# - index is the default action of any application
+# - user is required for authentication and authorization
+# - download is for downloading files uploaded in the db (does streaming)
+# -------------------------------------------------------------------------
+
+
+def index():
+    """
+    example action using the internationalization operator T and flash
+    rendered by views/default/index.html or views/generic.html
+
+    if you need a simple wiki simply replace the two lines below with:
+    return auth.wiki()
+    """
+    response.flash = T("Hello World")
+    return dict(message=T('Welcome to web2py!'))
+
+
+def user():
+    """
+    exposes:
+    http://..../[app]/default/user/login
+    http://..../[app]/default/user/logout
+    http://..../[app]/default/user/register
+    http://..../[app]/default/user/profile
+    http://..../[app]/default/user/retrieve_password
+    http://..../[app]/default/user/change_password
+    http://..../[app]/default/user/bulk_register
+    use @auth.requires_login()
+        @auth.requires_membership('group name')
+        @auth.requires_permission('read','table name',record_id)
+    to decorate functions that need access control
+    also notice there is http://..../[app]/appadmin/manage/auth to allow administrator to manage users
+    """
+    return dict(form=auth())
+
+
+@cache.action()
+def download():
+    """
+    allows downloading of uploaded files
+    http://..../[app]/default/download/[filename]
+    """
+    return response.download(request, db)
+
+
+def call():
+    """
+    exposes services. for example:
+    http://..../[app]/default/call/jsonrpc
+    decorate with @services.jsonrpc the functions to expose
+    supports xml, json, xmlrpc, jsonrpc, amfrpc, rss, csv
+    """
+    return service()
+
+@auth.requires_membership('funcionario')
+def novo_livro():
+    form = SQLFORM(Livros)
+    if form.process().accepted:
+        session.flash = 'Novo livro cadastrado: %s' % form.vars.titulo
+        redirect(URL('novo_livro'))
+    elif form.errors:
+        response.flash = 'Erros no formulário!'
+    else:
+        if not response.flash:
+            response.flash = 'Preencha o formulário!'
+    return dict(form=form)
+
+@auth.requires_membership('funcionario')
+def novo_periodico():
+    form = SQLFORM(Periodicos)
+    if form.process().accepted:
+        session.flash = 'Novo periódico cadastrado: %s' % form.vars.titulo
+        redirect(URL('novo_periodico'))
+    elif form.errors:
+        response.flash = 'Erros no formulário!'
+    else:
+        if not response.flash:
+            response.flash = 'Preencha o formulário!'
+    return dict(form=form)
+
+def ver_livros():
+    if request.vars.livro:
+         livros = db(Livros.titulo.like('%'+request.vars.livro+'%')).select()
+    else:
+         livros = db(Livros).select()
+    return dict(livros=livros)
+
+def ver_periodicos():
+    if request.vars.periodico:
+         livros = db(Periodicos.titulo.like('%'+request.vars.periodico+'%')).select()
+    else:
+         periodicos = db(Periodicos).select()
+    return dict(periodicos=periodicos)
+
+
+@auth.requires_membership('funcionario')
+def editar_livro():
+    form = SQLFORM(Livros, request.vars.id, deletable = True)
+    if form.process().accepted:
+        session.flash = 'Livro alterado: %s' % form.vars.titulo
+        redirect(URL('ver_livros'))
+    elif form.errors:
+        response.flash = 'Erros no formulário!'
+    else:
+        if not response.flash:
+            response.flash = 'Preencha o formulário!'
+    return dict(form=form)
+
+@auth.requires_membership('funcionario')
+def editar_periodico():
+    form = SQLFORM(Periodicos, request.vars.id, deletable = True)
+    if form.process().accepted:
+        session.flash = 'Periódico alterado: %s' % form.vars.titulo
+        redirect(URL('ver_periodicos'))
+    elif form.errors:
+        response.flash = 'Erros no formulário!'
+    else:
+        if not response.flash:
+            response.flash = 'Preencha o formulário!'
+    return dict(form=form)
+
+
+@auth.requires_membership('funcionario')
+def controleAdm():
+    return dict()
+
+
+def ver():
+    if request.vars.acervo:
+         livros = db(Livros.titulo.like('%'+request.vars.acervo+'%')).select()
+    else:
+         livros = db(Livros).select()
+
+    if request.vars.acervo:
+         periodicos = db(Periodicos.titulo.like('%'+request.vars.acervo+'%')).select()
+    else:
+         periodicos = db(Periodicos).select()
+
+
+    return dict(livros=livros, periodicos=periodicos)
+
+
+
+
+@auth.requires_membership('funcionario')
+def ver2():
+    if request.vars.nome:
+         livros = db(Livros.titulo.like('%'+request.vars.nome+'%')).select()
+    else:
+         livros = db(Livros).select()
+
+    if request.vars.nome:
+         periodicos = db(Periodicos.titulo.like('%'+request.vars.nome+'%')).select()
+    else:
+         periodicos = db(Periodicos).select()
+
+    if request.vars.nome:
+         user = db(db.auth_user.email.like('%'+request.vars.nome+'%')).select()
+    else:
+         user = db(db.auth_user).select()
+
+    return dict(livros=livros, periodicos=periodicos,user=user)
+
+def nova_reserva():
+    form = SQLFORM(Reserva)
+    if form.process().accepted:
+        session.flash = 'Nova reserva cadastrado: %s' % form.vars.livro.titulo
+        redirect(URL('nova_reserva'))
+    elif form.errors:
+        response.flash = 'Erros no formulário!'
+    else:
+        if not response.flash:
+            response.flash = 'Preencha o formulário!'
+    return dict(form=form)
+
+def ver_reserva():
+    if request.vars.reserva:
+         reservas = db(Reserva.aluno.first_name.like('%'+request.vars.reserva+'%')).select()
+    else:
+         reservas = db(Reserva).select()
+
+    return dict(reservas=reservas)
+
+def editar_reserva():
+    form = SQLFORM(Reserva, request.vars.id, deletable = True)
+    if form.process().accepted:
+        session.flash = 'reserva alterada: %s' % form.vars.livro.titulo
+        redirect(URL('ver_reserva'))
+    elif form.errors:
+        response.flash = 'Erros no formulário!'
+    else:
+        if not response.flash:
+            response.flash = 'Preencha o formulário!'
+    return dict(form=form)

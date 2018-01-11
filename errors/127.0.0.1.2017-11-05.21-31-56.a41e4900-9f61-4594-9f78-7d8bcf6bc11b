@@ -1,0 +1,1110 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.TypeError'> long() argument must be a string or a number, not 'list'"
+p3
+sS'layer'
+p4
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\controllers/default.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 099C2CC8, file "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\controllers/default.py", line 12>'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__getslice__'
+p12
+S"<method-wrapper '__getslice__' of exceptions.TypeError object>"
+p13
+sS'__str__'
+p14
+S"<method-wrapper '__str__' of exceptions.TypeError object>"
+p15
+sS'__reduce__'
+p16
+S'<built-in method __reduce__ of exceptions.TypeError object>'
+p17
+sS'__dict__'
+p18
+S'{}'
+p19
+sS'message'
+p20
+S'"long() argument must be a string or a number, not \'list\'"'
+p21
+sS'__sizeof__'
+p22
+S'<built-in method __sizeof__ of exceptions.TypeError object>'
+p23
+sS'__init__'
+p24
+S"<method-wrapper '__init__' of exceptions.TypeError object>"
+p25
+sS'__setattr__'
+p26
+S"<method-wrapper '__setattr__' of exceptions.TypeError object>"
+p27
+sS'__reduce_ex__'
+p28
+S'<built-in method __reduce_ex__ of exceptions.TypeError object>'
+p29
+sS'__new__'
+p30
+S'<built-in method __new__ of type object>'
+p31
+sS'__format__'
+p32
+S'<built-in method __format__ of exceptions.TypeError object>'
+p33
+sS'__class__'
+p34
+S"<type 'exceptions.TypeError'>"
+p35
+sS'__doc__'
+p36
+S"'Inappropriate argument type.'"
+p37
+sS'__getitem__'
+p38
+S"<method-wrapper '__getitem__' of exceptions.TypeError object>"
+p39
+sS'__setstate__'
+p40
+S'<built-in method __setstate__ of exceptions.TypeError object>'
+p41
+sS'__getattribute__'
+p42
+S"<method-wrapper '__getattribute__' of exceptions.TypeError object>"
+p43
+sS'args'
+p44
+S'("long() argument must be a string or a number, not \'list\'",)'
+p45
+sS'__subclasshook__'
+p46
+S'<built-in method __subclasshook__ of type object>'
+p47
+sS'__unicode__'
+p48
+S'<built-in method __unicode__ of exceptions.TypeError object>'
+p49
+sS'__delattr__'
+p50
+S"<method-wrapper '__delattr__' of exceptions.TypeError object>"
+p51
+sS'__repr__'
+p52
+S"<method-wrapper '__repr__' of exceptions.TypeError object>"
+p53
+sS'__hash__'
+p54
+S"<method-wrapper '__hash__' of exceptions.TypeError object>"
+p55
+ssS'evalue'
+p56
+S"long() argument must be a string or a number, not 'list'"
+p57
+sS'request'
+p58
+cgluon.html
+XML_unpickle
+p59
+(S'sfa\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>RAFA</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>default</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_admin</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-e471734a-d943-46f7-bf2e-e7402361e164<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_rafa</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-28a2631e-dd44-4034-930f-19d70cad5a4a<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">CONTENT_LENGTH</td><td style="vertical-align:top;">:</td><td><div>384</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CONTENT_TYPE</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundarytUtmPh22c1hmwnU1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_ENCODING</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_LANGUAGE</td><td style="vertical-align:top;">:</td><td><div>pt-BR,pt;q=0.8,en-US;q=0.6,en;q=0.4</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CACHE_CONTROL</td><td style="vertical-align:top;">:</td><td><div>max-age=0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONTENT_LENGTH</td><td style="vertical-align:top;">:</td><td><div>384</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONTENT_TYPE</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundarytUtmPh22c1hmwnU1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_COOKIE</td><td style="vertical-align:top;">:</td><td><div>session_id_admin=127.0.0.1-e471734a-d943-46f7-bf2e-e7402361e164; session_id_rafa=127.0.0.1-28a2631e-dd44-4034-930f-19d70cad5a4a</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ORIGIN</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_REFERER</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/RAFA/default/novo_estoque?carro=26</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_UPGRADE_INSECURE_REQUESTS</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_USER_AGENT</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/RAFA/default/novo_estoque</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div>carro=26</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>53970</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>POST</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>DESKTOP-L20575K</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py\\\\applications\\\\admin\\\\&#x27;, &#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py\\\\applications\\\\RAFA\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x30160f8: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;DESKTOP-L20575K&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">content_length</td><td style="vertical-align:top;">:</td><td><div>384</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">content_type</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundarytUtmPh22c1hmwnU1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_encoding</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_language</td><td style="vertical-align:top;">:</td><td><div>pt-BR,pt;q=0.8,en-US;q=0.6,en;q=0.4</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cache_control</td><td style="vertical-align:top;">:</td><td><div>max-age=0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_content_length</td><td style="vertical-align:top;">:</td><td><div>384</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_content_type</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundarytUtmPh22c1hmwnU1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cookie</td><td style="vertical-align:top;">:</td><td><div>session_id_admin=127.0.0.1-e471734a-d943-46f7-bf2e-e7402361e164; session_id_rafa=127.0.0.1-28a2631e-dd44-4034-930f-19d70cad5a4a</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_origin</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_referer</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/RAFA/default/novo_estoque?carro=26</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_upgrade_insecure_requests</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_user_agent</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>fe80::2449:9c8:4527:9ba8%3</div></td></tr><tr><td><div>DESKTOP-L20575K</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>fe80::9563:d3b:22c2:93a0%16</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>192.168.0.111</div></td></tr><tr><td><div>2001:0:9d38:78cf:2449:9c8:4527:9ba8</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/RAFA/default/novo_estoque</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div>carro=26</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>53970</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>POST</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/RAFA/default/novo_estoque?carro=26</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>DESKTOP-L20575K</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.15.2-stable+timestamp.2017.07.19.12.18.41</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x0227D0D0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x02F59180&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x095B98F0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x0227D0D0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x02F59180&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x095B98F0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>novo_estoque</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py\\\\applications\\\\admin\\\\&#x27;, &#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py\\\\applications\\\\RAFA\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x30160f8: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;DESKTOP-L20575K&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>fe80::2449:9c8:4527:9ba8%3</div></td></tr><tr><td><div>DESKTOP-L20575K</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>fe80::9563:d3b:22c2:93a0%16</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>192.168.0.111</div></td></tr><tr><td><div>2001:0:9d38:78cf:2449:9c8:4527:9ba8</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.15.2-stable+timestamp.2017.07.19.12.18.41</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_scheduler</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_shell</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 5, 21, 31, 56, 258000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_args</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_extension</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/RAFA/default/novo_estoque</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 5, 23, 31, 56, 258000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x0968C730&gt;</div></td></tr></table></div>'
+tRp60
+sS'frames'
+p61
+(lp62
+(dp63
+S'file'
+p64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\restricted.py'
+p65
+sS'dump'
+p66
+(dp67
+S'environment'
+p68
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}"
+p69
+sS'ccode'
+p70
+S'<code object <module> at 099C2CC8, file "C:\\User...plications\\RAFA\\controllers/default.py", line 12>'
+p71
+ssS'lnum'
+p72
+I219
+sS'lines'
+p73
+(dp74
+I214
+S'    if environment is None:'
+p75
+sI215
+S'        environment = {}'
+p76
+sI216
+S"    environment['__file__'] = layer"
+p77
+sI217
+S"    environment['__name__'] = '__restricted__'"
+p78
+sI218
+S'    try:'
+p79
+sI219
+S'        exec(ccode, environment)'
+p80
+sI220
+S'    except HTTP:'
+p81
+sI221
+S'        raise'
+p82
+sI222
+S'    except RestrictedError:'
+p83
+sI223
+S'        # do not encapsulate (obfuscate) the original RestrictedError'
+p84
+ssS'call'
+p85
+S'(ccode=<code object <module> at 099C2CC8, file "C:\\User...plications\\RAFA\\controllers/default.py", line 12>, environment={\'A\': <class \'gluon.html.A\'>, \'ANY_OF\': <class \'gluon.validators.ANY_OF\'>, \'ASSIGNJS\': <function ASSIGNJS>, \'AppConfig\': <function AppConfig>, \'Auth\': <class \'gluon.tools.Auth\'>, \'B\': <class \'gluon.html.B\'>, \'BEAUTIFY\': <class \'gluon.html.BEAUTIFY\'>, \'BODY\': <class \'gluon.html.BODY\'>, \'BR\': <class \'gluon.html.BR\'>, \'BUTTON\': <class \'gluon.html.BUTTON\'>, ...}, layer=r\'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\controllers/default.py\')'
+p86
+sS'func'
+p87
+S'restricted'
+p88
+sa(dp89
+g64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\controllers\\default.py'
+p90
+sg66
+(dp91
+sg72
+I215
+sg73
+(dp92
+I205
+S'    grid = SQLFORM.grid(CarrosEstoque)'
+p93
+sI206
+S'    return dict(grid=grid)'
+p94
+sI207
+S''
+sI208
+S'def ver_consig():'
+p95
+sI209
+S'    grid = SQLFORM.grid(CarrosConsig)'
+p96
+sI210
+S'    return dict(grid=grid)'
+p97
+sI211
+S''
+sI212
+S'def ver_despesas():'
+p98
+sI213
+S'    grid = SQLFORM.grid(Despesas)'
+p99
+sI214
+S'    return dict(grid=grid)'
+p100
+ssg85
+S'()'
+p101
+sg87
+S'<module>'
+p102
+sa(dp103
+g64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\globals.py'
+p104
+sg66
+(dp105
+S'self'
+p106
+S'undefined'
+p107
+sS'f'
+S'<function novo_estoque>'
+p108
+ssg72
+I409
+sg73
+(dp109
+I404
+S"        self.flash = ''            # used by the default view layout"
+p110
+sI405
+S'        self.meta = Storage()      # used by web2py_ajax.html'
+p111
+sI406
+S'        self.menu = []             # used by the default view layout'
+p112
+sI407
+S'        self.files = []            # used by web2py_ajax.html'
+p113
+sI408
+S'        self._vars = None'
+p114
+sI409
+S'        self._caller = lambda f: f()'
+p115
+sI410
+S'        self._view_environment = None'
+p116
+sI411
+S'        self._custom_commit = None'
+p117
+sI412
+S'        self._custom_rollback = None'
+p118
+sI413
+S"        self.generic_patterns = ['*']"
+p119
+ssg85
+S'(f=<function novo_estoque>)'
+p120
+sg87
+S'<lambda>'
+p121
+sa(dp122
+g64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\controllers\\default.py'
+p123
+sg66
+(dp124
+S'db.carros_estoque'
+p125
+S'<Table carros_estoque (id, carro, despesa_total)>'
+p126
+sS'form.vars'
+p127
+S'<Storage {}>'
+p128
+sS'form'
+p129
+S'<gluon.sqlhtml.SQLFORM object>'
+p130
+sS'global request'
+p131
+S"<Storage {'_vars': <Storage {'_formkey': '379424...s\\\\Backend\\\\RAFA\\\\web2py\\\\applications\\\\RAFA\\\\'}>"
+p132
+sS'db.carros_estoque.id'
+p133
+S'<pydal.objects.Field object>'
+p134
+sS'carro'
+p135
+g107
+sS').update'
+p136
+g107
+sS'form.vars.id'
+p137
+S'None'
+p138
+sS'request.vars.carro'
+p139
+S"['26', '']"
+p140
+sS'global db'
+p141
+S'<DAL uri="sqlite://storage.sqlite">'
+p142
+sS'request.vars'
+p143
+S"<Storage {'_formkey': '379424a6-7a43-4db4-a907-1...': 'carros_estoque/create', 'carro': ['26', '']}>"
+p144
+ssg72
+I147
+sg73
+(dp145
+I142
+S"            response.flash = 'Preencha o formul\xc3\xa1rio!'"
+p146
+sI143
+S'    return dict(form=form)'
+p147
+sI144
+S''
+sI145
+S'def novo_estoque():'
+p148
+sI146
+S'    form = SQLFORM(CarrosEstoque)'
+p149
+sI147
+S'    db(db.carros_estoque.id == form.vars.id).update(carro=request.vars.carro)'
+p150
+sI148
+S'    ##form.vars.carro = request.vars.carro'
+p151
+sI149
+S'    if form.process().accepted:'
+p152
+sI150
+S"        session.flash = 'Novo Carro cadastrado no estoque: %s' % form.vars.carro"
+p153
+sI151
+S"        redirect(URL('novo_estoque'))"
+p154
+ssg85
+S'()'
+p155
+sg87
+S'novo_estoque'
+p156
+sa(dp157
+g64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\objects.py'
+p158
+sg66
+(dp159
+S'self.query'
+p160
+S'<Query ("carros_estoque"."id" IS NULL)>'
+p161
+sS'db._adapter'
+p162
+S'<pydal.adapters.sqlite.SQLite object>'
+p163
+sS'self'
+p164
+S'<Set ("carros_estoque"."id" IS NULL)>'
+p165
+sS'db'
+p166
+S'<DAL uri="sqlite://storage.sqlite">'
+p167
+sS'ret'
+p168
+g107
+sS'row.op_values'
+p169
+S"<bound method OpRow.op_values of <OpRow {'carro': ['26', '']}>>"
+p170
+sS'table'
+p171
+S'<Table carros_estoque (id, carro, despesa_total)>'
+p172
+sS'db._adapter.update'
+p173
+S'<bound method SQLite.update of <pydal.adapters.sqlite.SQLite object>>'
+p174
+sS'row'
+p175
+S"<OpRow {'carro': ['26', '']}>"
+p176
+ssg72
+I2250
+sg73
+(dp177
+I2245
+S'        row = table._fields_and_values_for_update(update_fields)'
+p178
+sI2246
+S'        if not row._values:'
+p179
+sI2247
+S'            raise ValueError("No fields to update")'
+p180
+sI2248
+S'        if any(f(self, row) for f in table._before_update):'
+p181
+sI2249
+S'            return 0'
+p182
+sI2250
+S'        ret = db._adapter.update(table, self.query, row.op_values())'
+p183
+sI2251
+S'        ret and [f(self, row) for f in table._after_update]'
+p184
+sI2252
+S'        return ret'
+p185
+sI2253
+S''
+sI2254
+S'    def update_naive(self, **update_fields):'
+p186
+ssg85
+S'(self=<Set ("carros_estoque"."id" IS NULL)>, **update_fields={\'carro\': [\'26\', \'\']})'
+p187
+sg87
+S'update'
+p188
+sa(dp189
+g64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py'
+p190
+sg66
+(dp191
+S'self._update'
+p192
+S'<bound method SQLite._update of <pydal.adapters.sqlite.SQLite object>>'
+p193
+sS'fields'
+p194
+S"[(<pydal.objects.Field object>, ['26', ''])]"
+p195
+sS'self'
+p196
+S'<pydal.adapters.sqlite.SQLite object>'
+p197
+sS'sql'
+p198
+g107
+sS'query'
+p199
+S'<Query ("carros_estoque"."id" IS NULL)>'
+p200
+sS'table'
+p201
+S'<Table carros_estoque (id, carro, despesa_total)>'
+p202
+ssg72
+I514
+sg73
+(dp203
+I512
+S''
+sI513
+S'    def update(self, table, query, fields):'
+p204
+sI514
+S'        sql = self._update(table, query, fields)'
+p205
+sI515
+S'        try:'
+p206
+sI516
+S'            self.execute(sql)'
+p207
+sI517
+S'        except:'
+p208
+sI518
+S'            e = sys.exc_info()[1]'
+p209
+sI509
+S'                self.expand(value, field.type, query_env=query_env))'
+p210
+sI510
+S'            for (field, value) in fields])'
+p211
+sI511
+S'        return self.dialect.update(table, sql_v, sql_q)'
+p212
+ssg85
+S'(self=<pydal.adapters.sqlite.SQLite object>, table=<Table carros_estoque (id, carro, despesa_total)>, query=<Query ("carros_estoque"."id" IS NULL)>, fields=[(<pydal.objects.Field object>, [\'26\', \'\'])])'
+p213
+sg87
+g188
+sa(dp214
+g64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py'
+p215
+sg66
+(dp216
+S'field'
+p217
+S'<pydal.objects.Field object>'
+p218
+sS'value'
+p219
+S"['26', '']"
+p220
+sS'fields'
+p221
+S"[(<pydal.objects.Field object>, ['26', ''])]"
+p222
+ssg72
+I510
+sg73
+(dp223
+I512
+S''
+sI513
+S'    def update(self, table, query, fields):'
+p224
+sI514
+S'        sql = self._update(table, query, fields)'
+p225
+sI505
+S'                query = self.common_filter(query, [table])'
+p226
+sI506
+S'            sql_q = self.expand(query, query_env=query_env)'
+p227
+sI507
+S"        sql_v = ','.join(["
+p228
+sI508
+S"            '%s=%s' % (field._rname,"
+p229
+sI509
+S'                self.expand(value, field.type, query_env=query_env))'
+p230
+sI510
+S'            for (field, value) in fields])'
+p231
+sI511
+S'        return self.dialect.update(table, sql_v, sql_q)'
+p232
+ssg85
+S'(self=<pydal.adapters.sqlite.SQLite object>, table=<Table carros_estoque (id, carro, despesa_total)>, query=<Query ("carros_estoque"."id" IS NULL)>, fields=[(<pydal.objects.Field object>, [\'26\', \'\'])])'
+p233
+sg87
+S'_update'
+p234
+sa(dp235
+g64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py'
+p236
+sg66
+(dp237
+S'self.represent'
+p238
+S'<bound method SQLite.represent of <pydal.adapters.sqlite.SQLite object>>'
+p239
+sS'rv'
+p240
+g107
+sS'expression'
+p241
+S"['26', '']"
+p242
+sS'self'
+p243
+S'<pydal.adapters.sqlite.SQLite object>'
+p244
+sS'field_type'
+p245
+S"'reference carros'"
+p246
+ssg72
+I442
+sg73
+(dp247
+I437
+S'                    op = op[:-1]'
+p248
+sI438
+S"                rv = '(%s)' % op"
+p249
+sI439
+S'            else:'
+p250
+sI440
+S'                rv = op()'
+p251
+sI441
+S'        elif field_type:'
+p252
+sI442
+S'            rv = self.represent(expression, field_type)'
+p253
+sI443
+S'        elif isinstance(expression, (list, tuple)):'
+p254
+sI444
+S"            rv = ','.join(self.represent(item, field_type)"
+p255
+sI445
+S'                          for item in expression)'
+p256
+sI446
+S'        elif isinstance(expression, bool):'
+p257
+ssg85
+S"(self=<pydal.adapters.sqlite.SQLite object>, expression=['26', ''], field_type='reference carros', colnames=False, query_env={'current_scope': ['carros_estoque']})"
+p258
+sg87
+S'_expand'
+p259
+sa(dp260
+g64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py'
+p261
+sg66
+(dp262
+S'field_type'
+p263
+S"'reference carros'"
+p264
+sS'obj'
+p265
+S"['26', '']"
+p266
+sS'self'
+p267
+S'<pydal.adapters.sqlite.SQLite object>'
+p268
+sS'global SQLAdapter'
+p269
+S"<class 'pydal.adapters.base.SQLAdapter'>"
+p270
+sS').represent'
+p271
+S'<bound method SQLite.represent of <pydal.adapters.sqlite.SQLite object>>'
+p272
+sS'builtinsuper'
+p273
+S"<type 'super'>"
+p274
+ssg72
+I379
+sg73
+(dp275
+I374
+S"        self.execute('SELECT 1;')"
+p276
+sI375
+S''
+sI376
+S'    def represent(self, obj, field_type):'
+p277
+sI377
+S'        if isinstance(obj, (Expression, Field)):'
+p278
+sI378
+S'            return str(obj)'
+p279
+sI379
+S'        return super(SQLAdapter, self).represent(obj, field_type)'
+p280
+sI380
+S''
+sI381
+S'    def adapt(self, obj):'
+p281
+sI382
+S'        return "\'%s\'" % obj.replace("\'", "\'\'")'
+p282
+sI383
+S''
+ssg85
+S"(self=<pydal.adapters.sqlite.SQLite object>, obj=['26', ''], field_type='reference carros')"
+p283
+sg87
+S'represent'
+p284
+sa(dp285
+g64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py'
+p286
+sg66
+(dp287
+S'self.representer'
+p288
+S'<pydal.representers.sqlite.SQLiteRepresenter object>'
+p289
+sS'self'
+p290
+S'<pydal.adapters.sqlite.SQLite object>'
+p291
+sS'field_type'
+p292
+S"'reference carros'"
+p293
+sS'obj'
+p294
+S"['26', '']"
+p295
+sS'self.representer.represent'
+p296
+S'<bound method SQLiteRepresenter.represent of <pydal.representers.sqlite.SQLiteRepresenter object>>'
+p297
+ssg72
+I335
+sg73
+(dp298
+I330
+S'        return value'
+p299
+sI331
+S''
+sI332
+S'    def represent(self, obj, field_type):'
+p300
+sI333
+S'        if isinstance(obj, CALLABLETYPES):'
+p301
+sI334
+S'            obj = obj()'
+p302
+sI335
+S'        return self.representer.represent(obj, field_type)'
+p303
+sI336
+S''
+sI337
+S'    def _drop_table_cleanup(self, table):'
+p304
+sI338
+S'        del self.db[table._tablename]'
+p305
+sI339
+S'        del self.db.tables[self.db.tables.index(table._tablename)]'
+p306
+ssg85
+S"(self=<pydal.adapters.sqlite.SQLite object>, obj=['26', ''], field_type='reference carros')"
+p307
+sg87
+g284
+sa(dp308
+g64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\representers\\__init__.py'
+p309
+sg66
+(dp310
+S'field_type'
+p311
+S"'reference carros'"
+p312
+sS'rv'
+p313
+S"['26', '']"
+p314
+sS'self'
+p315
+S'<pydal.representers.sqlite.SQLiteRepresenter object>'
+p316
+sS'self.get_representer_for_type'
+p317
+S'<bound method SQLiteRepresenter.get_representer_...al.representers.sqlite.SQLiteRepresenter object>>'
+p318
+ssg72
+I251
+sg73
+(dp319
+I246
+S'        if pre_end:'
+p320
+sI247
+S'            return value'
+p321
+sI248
+S'        repr_type, rv = self.get_representer_for_instance(value)('
+p322
+sI249
+S'            value, field_type)'
+p323
+sI250
+S'        if repr_type:'
+p324
+sI251
+S'            rv = self.get_representer_for_type(field_type)(rv, field_type)'
+p325
+sI252
+S'        return rv'
+p326
+sI253
+S''
+sI254
+S''
+sI255
+S'from .base import BaseRepresenter, SQLRepresenter, NoSQLRepresenter'
+p327
+ssg85
+S"(self=<pydal.representers.sqlite.SQLiteRepresenter object>, value=['26', ''], field_type='reference carros')"
+p328
+sg87
+g284
+sa(dp329
+g64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\representers\\__init__.py'
+p330
+sg66
+(dp331
+S'value'
+p332
+S"['26', '']"
+p333
+sS'self'
+p334
+S'<pydal.representers.TReprMethodWrapper object>'
+p335
+sS'self.call'
+p336
+S'<bound method TReprMethodWrapper._call_with_extr...f <pydal.representers.TReprMethodWrapper object>>'
+p337
+sS'self.adapt'
+p338
+S'<bound method TReprMethodWrapper._no_adapt of <pydal.representers.TReprMethodWrapper object>>'
+p339
+sS'field_type'
+p340
+S"'reference carros'"
+p341
+ssg72
+I139
+sg73
+(dp342
+I134
+S''
+sI135
+S'    def _call(self, value, field_type):'
+p343
+sI136
+S'        return self.inner_call(value)'
+p344
+sI137
+S''
+sI138
+S'    def __call__(self, value, field_type):'
+p345
+sI139
+S'        return self.adapt(self.call(value, field_type))'
+p346
+sI140
+S''
+sI141
+S''
+sI142
+S'class IReprMethodWrapper(object):'
+p347
+sI143
+S'    def __init__(self, representer, obj):'
+p348
+ssg85
+S"(self=<pydal.representers.TReprMethodWrapper object>, value=['26', ''], field_type='reference carros')"
+p349
+sg87
+S'__call__'
+p350
+sa(dp351
+g64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\representers\\__init__.py'
+p352
+sg66
+(dp353
+S'self.inner_call'
+p354
+S'<bound method TReprMethodWrapper._inner_call of <pydal.representers.TReprMethodWrapper object>>'
+p355
+sS'self'
+p356
+S'<pydal.representers.TReprMethodWrapper object>'
+p357
+sS'extras'
+p358
+S"{'referenced': 'carros'}"
+p359
+sS'value'
+p360
+S"['26', '']"
+p361
+ssg72
+I133
+sg73
+(dp362
+I128
+S'            value = value.encode(self.representer.adapter.db_codec)'
+p363
+sI129
+S'        return self.obj.f(self.representer, value, **kwargs)'
+p364
+sI130
+S''
+sI131
+S'    def _call_with_extras(self, value, field_type):'
+p365
+sI132
+S'        extras = self.extra(self.representer, field_type)'
+p366
+sI133
+S'        return self.inner_call(value, **extras)'
+p367
+sI134
+S''
+sI135
+S'    def _call(self, value, field_type):'
+p368
+sI136
+S'        return self.inner_call(value)'
+p369
+sI137
+S''
+ssg85
+S"(self=<pydal.representers.TReprMethodWrapper object>, value=['26', ''], field_type='reference carros')"
+p370
+sg87
+S'_call_with_extras'
+p371
+sa(dp372
+g64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\representers\\__init__.py'
+p373
+sg66
+(dp374
+S'self.obj.f'
+p375
+S'<function _reference>'
+p376
+sS'self.obj'
+p377
+S'<pydal.representers.for_type object>'
+p378
+sS'self'
+p379
+S'<pydal.representers.TReprMethodWrapper object>'
+p380
+sS'value'
+p381
+S"['26', '']"
+p382
+sS'self.representer'
+p383
+S'<pydal.representers.sqlite.SQLiteRepresenter object>'
+p384
+sS'kwargs'
+p385
+S"{'referenced': 'carros'}"
+p386
+ssg72
+I124
+sg73
+(dp387
+I128
+S'            value = value.encode(self.representer.adapter.db_codec)'
+p388
+sI119
+S''
+sI120
+S'    def _no_adapt(self, value):'
+p389
+sI121
+S'        return value'
+p390
+sI122
+S''
+sI123
+S'    def _inner_call(self, value, **kwargs):'
+p391
+sI124
+S'        return self.obj.f(self.representer, value, **kwargs)'
+p392
+sI125
+S''
+sI126
+S'    def _inner_call_with_encode(self, value, **kwargs):'
+p393
+sI127
+S'        if isinstance(value, unicode):'
+p394
+ssg85
+S"(self=<pydal.representers.TReprMethodWrapper object>, value=['26', ''], **kwargs={'referenced': 'carros'})"
+p395
+sg87
+S'_inner_call'
+p396
+sa(dp397
+g64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\representers\\base.py'
+p398
+sg66
+(dp399
+S'builtinstr'
+p400
+S"<type 'str'>"
+p401
+sS'global long'
+p402
+S"<type 'long'>"
+p403
+sS'value'
+p404
+S"['26', '']"
+p405
+ssg72
+I141
+sg73
+(dp406
+I136
+S"        return {'referenced': field_type[9:].strip()}"
+p407
+sI137
+S''
+sI138
+S"    @for_type('reference', adapt=False)"
+p408
+sI139
+S'    def _reference(self, value, referenced):'
+p409
+sI140
+S'        if referenced in self.adapter.db.tables:'
+p410
+sI141
+S'            return str(long(value))'
+p411
+sI142
+S"        p = referenced.partition('.')"
+p412
+sI143
+S"        if p[2] != '':"
+p413
+sI144
+S'            try:'
+p414
+sI145
+S'                ftype = self.adapter.db[p[0]][p[2]].type'
+p415
+ssg85
+S"(self=<pydal.representers.sqlite.SQLiteRepresenter object>, value=['26', ''], referenced='carros')"
+p416
+sg87
+S'_reference'
+p417
+sasS'pyver'
+p418
+S'Python 2.7.9: C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\web2py.exe (prefix: )'
+p419
+sS'session'
+p420
+g59
+(S's\xec\x08\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">auth</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">expiration</td><td style="vertical-align:top;">:</td><td><div>3600</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">hmac_key</td><td style="vertical-align:top;">:</td><td><div>96443f49-825c-4f77-9769-8b026d3a9c9e</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_visit</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 5, 21, 27, 0, 410000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remember_me</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">user</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">email</td><td style="vertical-align:top;">:</td><td><div>gabriel@email.com</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">first_name</td><td style="vertical-align:top;">:</td><td><div>Gabriel</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">id</td><td style="vertical-align:top;">:</td><td><div>11L</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_name</td><td style="vertical-align:top;">:</td><td><div>Matos</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">registration_id</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">registration_key</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">reset_password_key</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">user_groups</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">12</td><td style="vertical-align:top;">:</td><td><div>user_11</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr></table></div>'
+tRp421
+sS'etype'
+p422
+S"<type 'exceptions.TypeError'>"
+p423
+sS'date'
+p424
+S'Sun Nov 05 21:31:56 2017'
+p425
+sS'response'
+p426
+g59
+(S's\xcc\'\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x096D9EA0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_rafa</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-28a2631e-dd44-4034-930f-19d70cad5a4a<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">form_label_separator</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">formstyle</td><td style="vertical-align:top;">:</td><td><div>bootstrap3_inline</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>*</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">logo</td><td style="vertical-align:top;">:</td><td><div><a class="navbar-brand" href="index.html" id="web2py-logo"><b><span>RAFA </span>autom\xc3\xb3veis</b></a></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div><table><tr><td><div>Cadastros</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>#</div></td></tr><tr><td><div><table><tr><td><div><table><tr><td><div>Cadastrar novo carro</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/novo_carro</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Cadastrar novo cliente</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/novo_cliente</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Cadastrar carro no estoque</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/novo_estoque</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Cadastrar nova venda</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/nova_venda</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Cadastrar nova consigna\xc3\xa7\xc3\xa3o</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/novo_consignado</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Cadastrar despesas</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/nova_despesa</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Carros</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>#</div></td></tr><tr><td><div><table><tr><td><div><table><tr><td><div>Todos os carros</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/ver_carros</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><li class="divider"></li></div></td></tr><tr><td><div><table><tr><td><div>Estoque</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/ver_estoque</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>consignados</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/ver_consig</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Vendidos</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/ver_vendas</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Despesas</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/ver_despesas</div></td></tr><tr><td><div><table></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>cliente</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/ver_clientes</div></td></tr><tr><td><div><table></table></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">author</td><td style="vertical-align:top;">:</td><td><div>Your Name &lt;you@example.com&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">description</td><td style="vertical-align:top;">:</td><td><div>a cool new app</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generator</td><td style="vertical-align:top;">:</td><td><div>Web2py Web Framework</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">keywords</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>web2py</div></td></tr><tr><td><div>python</div></td></tr><tr><td><div>framework</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^default/\\w+\\.py$</div></td></tr><tr><td><div>^default/novo_estoque/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_rafa</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py\\\\applications\\\\RAFA\\\\sessions\\\\176\\\\148\\\\127.0.0.1-28a2631e-dd44-4034-930f-19d70cad5a4a&#x27;, mode &#x27;rb+&#x27; at 0x048CFF40&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\sessions\\127.0.0.1-28a2631e-dd44-4034-930f-19d70cad5a4a</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>7a54c82b7a057fd38bd13724329d3a3c</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-28a2631e-dd44-4034-930f-19d70cad5a4a</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_rafa</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_locked</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>RAFA</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">subtitle</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">title</td><td style="vertical-align:top;">:</td><td><div>Rafa</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>default/novo_estoque.html</div></td></tr></table></div>'
+tRp427
+sS'locals'
+p428
+(dp429
+S'self'
+p430
+S'<pydal.representers.sqlite.SQLiteRepresenter object>'
+p431
+sS'referenced'
+p432
+S"'carros'"
+p433
+sS'value'
+p434
+S"['26', '']"
+p435
+sssS'traceback'
+p436
+S'Traceback (most recent call last):\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\controllers/default.py", line 215, in <module>\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\globals.py", line 409, in <lambda>\n    self._caller = lambda f: f()\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\controllers/default.py", line 147, in novo_estoque\n    db(db.carros_estoque.id == form.vars.id).update(carro=request.vars.carro)\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\objects.py", line 2250, in update\n    ret = db._adapter.update(table, self.query, row.op_values())\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 514, in update\n    sql = self._update(table, query, fields)\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 510, in _update\n    for (field, value) in fields])\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 442, in _expand\n    rv = self.represent(expression, field_type)\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 379, in represent\n    return super(SQLAdapter, self).represent(obj, field_type)\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 335, in represent\n    return self.representer.represent(obj, field_type)\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\representers\\__init__.py", line 251, in represent\n    rv = self.get_representer_for_type(field_type)(rv, field_type)\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\representers\\__init__.py", line 139, in __call__\n    return self.adapt(self.call(value, field_type))\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\representers\\__init__.py", line 133, in _call_with_extras\n    return self.inner_call(value, **extras)\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\representers\\__init__.py", line 124, in _inner_call\n    return self.obj.f(self.representer, value, **kwargs)\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\packages\\dal\\pydal\\representers\\base.py", line 141, in _reference\n    return str(long(value))\nTypeError: long() argument must be a string or a number, not \'list\'\n'
+p437
+s.

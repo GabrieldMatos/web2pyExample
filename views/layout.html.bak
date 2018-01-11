@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Biblioteca</title>
+    <link rel="stylesheet" type="text/css" href="/biblioteca/static/css/style.css">
+</head>
+  <body>
+    <header id="cabecalho">
+        <a href="index.html"><img src="/biblioteca/static/bannerBiblioteca.jpg" width="100%" height="200"/></a>
+        <form action="ver.html" method="post" name="form">
+            <input name="acervo" placeholder="Pesquisar"/>
+            <input type="submit" name="buscar" value="Buscar"/>
+        </form>
+
+        <hr>
+        <a id="login" href="http://127.0.0.1:8000/biblioteca/default/user/logout"> Logout </a>
+        <a id="login" href="http://127.0.0.1:8000/biblioteca/default/user/profile"> Editar Perfil </a>
+        <a id="login" href="http://127.0.0.1:8000/biblioteca/default/user/register"> Cadastre-se</a>
+        <a id="login" href="http://127.0.0.1:8000/biblioteca/default/user/login"> Fazer login </a>
+
+
+    </header>
+    <aside id="menu">
+        <nav>
+            <a href="http://127.0.0.1:8000/biblioteca/default/controleAdm"> <p text-align="right">Painel de controle do Administrador</p></a>
+            <h1>Categorias</h1>
+            <ul>
+                <li> <a href="ver_carros.html">Carros</a> </li>
+                <li> <a href="ver_clientes.html">Clientes</a> </li>
+                <li> <a href="ver_venda.html">Vendas</a> </li>
+            </ul>
+        </nav>
+    </aside>
+<section id="corpo">
+
+
+</section>
+
+<footer id="rodape">
+    <hr>
+    Copyright © 2017 - by Smart Think Dev
+</footer>
+</body>
+</html>

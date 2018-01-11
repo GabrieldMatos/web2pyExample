@@ -1,0 +1,841 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.AttributeError'> 'Table' object has no attribute 'camissao'"
+p3
+sS'layer'
+p4
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\models\\valitadors.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0469A770, file "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\models\\valitadors.py", line 3>'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__getslice__'
+p12
+S"<method-wrapper '__getslice__' of exceptions.AttributeError object>"
+p13
+sS'__str__'
+p14
+S"<method-wrapper '__str__' of exceptions.AttributeError object>"
+p15
+sS'__reduce__'
+p16
+S'<built-in method __reduce__ of exceptions.AttributeError object>'
+p17
+sS'__dict__'
+p18
+S'{}'
+p19
+sS'message'
+p20
+S'"\'Table\' object has no attribute \'camissao\'"'
+p21
+sS'__sizeof__'
+p22
+S'<built-in method __sizeof__ of exceptions.AttributeError object>'
+p23
+sS'__init__'
+p24
+S"<method-wrapper '__init__' of exceptions.AttributeError object>"
+p25
+sS'__setattr__'
+p26
+S"<method-wrapper '__setattr__' of exceptions.AttributeError object>"
+p27
+sS'__reduce_ex__'
+p28
+S'<built-in method __reduce_ex__ of exceptions.AttributeError object>'
+p29
+sS'__new__'
+p30
+S'<built-in method __new__ of type object>'
+p31
+sS'__format__'
+p32
+S'<built-in method __format__ of exceptions.AttributeError object>'
+p33
+sS'__class__'
+p34
+S"<type 'exceptions.AttributeError'>"
+p35
+sS'__doc__'
+p36
+S"'Attribute not found.'"
+p37
+sS'__getitem__'
+p38
+S"<method-wrapper '__getitem__' of exceptions.AttributeError object>"
+p39
+sS'__setstate__'
+p40
+S'<built-in method __setstate__ of exceptions.AttributeError object>'
+p41
+sS'__getattribute__'
+p42
+S"<method-wrapper '__getattribute__' of exceptions.AttributeError object>"
+p43
+sS'args'
+p44
+S'("\'Table\' object has no attribute \'camissao\'",)'
+p45
+sS'__subclasshook__'
+p46
+S'<built-in method __subclasshook__ of type object>'
+p47
+sS'__unicode__'
+p48
+S'<built-in method __unicode__ of exceptions.AttributeError object>'
+p49
+sS'__delattr__'
+p50
+S"<method-wrapper '__delattr__' of exceptions.AttributeError object>"
+p51
+sS'__repr__'
+p52
+S"<method-wrapper '__repr__' of exceptions.AttributeError object>"
+p53
+sS'__hash__'
+p54
+S"<method-wrapper '__hash__' of exceptions.AttributeError object>"
+p55
+ssS'evalue'
+p56
+S"'Table' object has no attribute 'camissao'"
+p57
+sS'request'
+p58
+cgluon.html
+XML_unpickle
+p59
+(S'sPf\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>RAFA</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>default</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_admin</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-76e3efa1-1c89-49c5-b816-afa51a957219<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_biblioteca</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-9030c9f9-dc28-4674-b1e9-db89c7f8876a<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_rafa</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-d6319436-839c-42fe-a3f0-dcda1d96ad32<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">CONTENT_LENGTH</td><td style="vertical-align:top;">:</td><td><div>971</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CONTENT_TYPE</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundaryVGVGnigelW0lMWB3</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_ENCODING</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_LANGUAGE</td><td style="vertical-align:top;">:</td><td><div>pt-BR,pt;q=0.8,en-US;q=0.6,en;q=0.4</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CACHE_CONTROL</td><td style="vertical-align:top;">:</td><td><div>max-age=0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONTENT_LENGTH</td><td style="vertical-align:top;">:</td><td><div>971</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONTENT_TYPE</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundaryVGVGnigelW0lMWB3</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_COOKIE</td><td style="vertical-align:top;">:</td><td><div>session_id_biblioteca=127.0.0.1-9030c9f9-dc28-4674-b1e9-db89c7f8876a; session_id_admin=127.0.0.1-76e3efa1-1c89-49c5-b816-afa51a957219; session_id_rafa=127.0.0.1-d6319436-839c-42fe-a3f0-dcda1d96ad32</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ORIGIN</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_REFERER</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/RAFA/default/nova_venda</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_UPGRADE_INSECURE_REQUESTS</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_USER_AGENT</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/RAFA/default/nova_venda</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>54965</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>POST</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>DESKTOP-L20575K</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py\\\\applications\\\\admin\\\\&#x27;, &#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py\\\\applications\\\\biblioteca\\\\&#x27;, &#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py\\\\applications\\\\RAFA\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x332d0d0: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;DESKTOP-L20575K&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">content_length</td><td style="vertical-align:top;">:</td><td><div>971</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">content_type</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundaryVGVGnigelW0lMWB3</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_encoding</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_language</td><td style="vertical-align:top;">:</td><td><div>pt-BR,pt;q=0.8,en-US;q=0.6,en;q=0.4</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cache_control</td><td style="vertical-align:top;">:</td><td><div>max-age=0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_content_length</td><td style="vertical-align:top;">:</td><td><div>971</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_content_type</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundaryVGVGnigelW0lMWB3</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cookie</td><td style="vertical-align:top;">:</td><td><div>session_id_biblioteca=127.0.0.1-9030c9f9-dc28-4674-b1e9-db89c7f8876a; session_id_admin=127.0.0.1-76e3efa1-1c89-49c5-b816-afa51a957219; session_id_rafa=127.0.0.1-d6319436-839c-42fe-a3f0-dcda1d96ad32</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_origin</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_referer</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/RAFA/default/nova_venda</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_upgrade_insecure_requests</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_user_agent</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>DESKTOP-L20575K</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>fe80::9563:d3b:22c2:93a0%16</div></td></tr><tr><td><div>192.168.0.112</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/RAFA/default/nova_venda</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>54965</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>POST</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/RAFA/default/nova_venda</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>DESKTOP-L20575K</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.15.2-stable+timestamp.2017.07.19.12.18.41</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x022CD0D0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x031B40A0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x0482C970&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x022CD0D0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x031B40A0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x0482C970&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>nova_venda</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py\\\\applications\\\\admin\\\\&#x27;, &#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py\\\\applications\\\\biblioteca\\\\&#x27;, &#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py\\\\applications\\\\RAFA\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x332d0d0: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;DESKTOP-L20575K&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>DESKTOP-L20575K</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>fe80::9563:d3b:22c2:93a0%16</div></td></tr><tr><td><div>192.168.0.112</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.15.2-stable+timestamp.2017.07.19.12.18.41</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_scheduler</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_shell</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 10, 15, 33, 22, 738000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_args</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_extension</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/RAFA/default/nova_venda</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 10, 17, 33, 22, 738000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x046AA710&gt;</div></td></tr></table></div>'
+tRp60
+sS'frames'
+p61
+(lp62
+(dp63
+S'file'
+p64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\restricted.py'
+p65
+sS'dump'
+p66
+(dp67
+S'environment'
+p68
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}"
+p69
+sS'ccode'
+p70
+S'<code object <module> at 0469A770, file "C:\\User...\\applications\\RAFA\\models\\valitadors.py", line 3>'
+p71
+ssS'lnum'
+p72
+I219
+sS'lines'
+p73
+(dp74
+I214
+S'    if environment is None:'
+p75
+sI215
+S'        environment = {}'
+p76
+sI216
+S"    environment['__file__'] = layer"
+p77
+sI217
+S"    environment['__name__'] = '__restricted__'"
+p78
+sI218
+S'    try:'
+p79
+sI219
+S'        exec(ccode, environment)'
+p80
+sI220
+S'    except HTTP:'
+p81
+sI221
+S'        raise'
+p82
+sI222
+S'    except RestrictedError:'
+p83
+sI223
+S'        # do not encapsulate (obfuscate) the original RestrictedError'
+p84
+ssS'call'
+p85
+S'(ccode=<code object <module> at 0469A770, file "C:\\User...\\applications\\RAFA\\models\\valitadors.py", line 3>, environment={\'A\': <class \'gluon.html.A\'>, \'ANY_OF\': <class \'gluon.validators.ANY_OF\'>, \'ASSIGNJS\': <function ASSIGNJS>, \'AppConfig\': <function AppConfig>, \'Auth\': <class \'gluon.tools.Auth\'>, \'B\': <class \'gluon.html.B\'>, \'BEAUTIFY\': <class \'gluon.html.BEAUTIFY\'>, \'BODY\': <class \'gluon.html.BODY\'>, \'BR\': <class \'gluon.html.BR\'>, \'BUTTON\': <class \'gluon.html.BUTTON\'>, ...}, layer=r\'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\models\\valitadors.py\')'
+p86
+sS'func'
+p87
+S'restricted'
+p88
+sa(dp89
+g64
+S'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\models\\valitadors.py'
+p90
+sg66
+(dp91
+S'CarrosVendidos'
+p92
+S'<Table carros_vendidos (id, carro, data_venda, c...alor_venda, forma_pagamento, funcionario, lucro)>'
+p93
+sS'IS_NOT_EMPTY'
+p94
+S"<class 'gluon.validators.IS_NOT_EMPTY'>"
+p95
+sS'CarrosVendidos.camissao'
+p96
+S'undefined'
+p97
+ssg72
+I20
+sg73
+(dp98
+I15
+S"CarrosVendidos.data_venda.requires = IS_DATE(format='%d-%m-%Y')"
+p99
+sI16
+S"CarrosVendidos.comprador.requires = IS_IN_DB(db, 'clientes.id', '%(nome)s %(s_nome)s %(cpf)s')"
+p100
+sI17
+S"CarrosVendidos.funcionario.requires = IS_IN_DB(db, 'auth_user.id', '%(first_name)s %(last_name)s')"
+p101
+sI18
+S"CarrosVendidos.forma_pagamento.requires = IS_IN_SET(['Cheque', 'Ted', 'Financiamento', 'Promiss\xc3\xb3ria'])"
+p102
+sI19
+S'CarrosVendidos.valor_venda.requires = IS_NOT_EMPTY()'
+p103
+sI20
+S'CarrosVendidos.camissao.requires = IS_NOT_EMPTY()'
+p104
+sI21
+S''
+sI22
+S'##Validadores de Estoque'
+p105
+sI23
+S"CarrosEstoque.carro.requires = IS_IN_DB(db, 'carros.id', '%(placa)s')"
+p106
+sI24
+S'CarrosEstoque.despesa_total.requires = IS_NOT_EMPTY()'
+p107
+ssg85
+S'()'
+p108
+sg87
+S'<module>'
+p109
+sasS'pyver'
+p110
+S'Python 2.7.9: C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\web2py.exe (prefix: )'
+p111
+sS'session'
+p112
+g59
+(S's\x14\n\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">auth</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">expiration</td><td style="vertical-align:top;">:</td><td><div>3600</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">hmac_key</td><td style="vertical-align:top;">:</td><td><div>f988ad90-5c01-4aaa-ba23-531521646cf9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_visit</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 10, 15, 33, 22, 738000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remember_me</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">user</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">email</td><td style="vertical-align:top;">:</td><td><div>gabriel@email.com</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">first_name</td><td style="vertical-align:top;">:</td><td><div>Gabriel</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">id</td><td style="vertical-align:top;">:</td><td><div>11L</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_name</td><td style="vertical-align:top;">:</td><td><div>Matos</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">registration_id</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">registration_key</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">reset_password_key</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">user_groups</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">12</td><td style="vertical-align:top;">:</td><td><div>user_11</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_orderby</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_query</td><td style="vertical-align:top;">:</td><td><div>db.auth_permission.id&gt;0</div></td></tr></table></div>'
+tRp113
+sS'etype'
+p114
+S"<type 'exceptions.AttributeError'>"
+p115
+sS'date'
+p116
+S'Fri Nov 10 15:33:23 2017'
+p117
+sS'response'
+p118
+g59
+(S's\xbc\'\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x046AAAA0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_rafa</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-d6319436-839c-42fe-a3f0-dcda1d96ad32<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">form_label_separator</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">formstyle</td><td style="vertical-align:top;">:</td><td><div>bootstrap3_inline</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>*</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">logo</td><td style="vertical-align:top;">:</td><td><div><a class="navbar-brand" href="index.html" id="web2py-logo"><b><span>RAFA </span>autom\xc3\xb3veis</b></a></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div><table><tr><td><div>Cadastros</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>#</div></td></tr><tr><td><div><table><tr><td><div><table><tr><td><div>Cadastrar novo carro</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/novo_carro</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Cadastrar novo cliente</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/novo_cliente</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Cadastrar nova venda</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/nova_venda</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Cadastrar nova consigna\xc3\xa7\xc3\xa3o</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/novo_consignado</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Cadastrar despesas</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/nova_despesa</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Carros</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>#</div></td></tr><tr><td><div><table><tr><td><div><table><tr><td><div>Todos os carros</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/ver_carros</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><li class="divider"></li></div></td></tr><tr><td><div><table><tr><td><div>Estoque</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/ver_estoque</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Financiados</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/ver_financiados</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>consignados</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/ver_consig</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Vendidos</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/ver_vendas</div></td></tr><tr><td><div>[]</div></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Despesas</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/ver_despesas</div></td></tr><tr><td><div><table></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>cliente</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/RAFA/default/ver_clientes</div></td></tr><tr><td><div><table></table></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">author</td><td style="vertical-align:top;">:</td><td><div>Your Name &lt;you@example.com&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">description</td><td style="vertical-align:top;">:</td><td><div>a cool new app</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generator</td><td style="vertical-align:top;">:</td><td><div>Web2py Web Framework</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">keywords</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>web2py</div></td></tr><tr><td><div>python</div></td></tr><tr><td><div>framework</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^default/\\w+\\.py$</div></td></tr><tr><td><div>^default/nova_venda/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_rafa</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;C:\\\\Users\\\\Gabriel\\\\Documents\\\\Backend\\\\RAFA\\\\web2py\\\\applications\\\\RAFA\\\\sessions\\\\0dc\\\\08c\\\\127.0.0.1-d6319436-839c-42fe-a3f0-dcda1d96ad32&#x27;, mode &#x27;rb+&#x27; at 0x04A1BEE8&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\sessions\\127.0.0.1-d6319436-839c-42fe-a3f0-dcda1d96ad32</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>27dc28e76a8468c9da4ce15c2d63f5f5</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-d6319436-839c-42fe-a3f0-dcda1d96ad32</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_rafa</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_locked</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>RAFA</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">subtitle</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">title</td><td style="vertical-align:top;">:</td><td><div>Rafa</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>default/nova_venda.html</div></td></tr></table></div>'
+tRp119
+sS'locals'
+p120
+(dp121
+S'Service'
+p122
+S"<class 'gluon.tools.Service'>"
+p123
+sS'PY2'
+p124
+S'True'
+p125
+sS'OBJECT'
+p126
+S"<class 'gluon.html.OBJECT'>"
+p127
+sS'SQLDB'
+p128
+S"<class 'pydal.base.DAL'>"
+p129
+sg112
+S"<Storage {'auth': <Storage {'remember_me': False...ature=2c27ace55150d9953f2e8eec613ad3945a54ac34'}>"
+p130
+sS'LINK'
+p131
+S"<class 'gluon.html.LINK'>"
+p132
+sS'BR'
+p133
+S"<class 'gluon.html.BR'>"
+p134
+sS'local_import'
+p135
+S'<function <lambda>>'
+p136
+sS'OPTGROUP'
+p137
+S"<class 'gluon.html.OPTGROUP'>"
+p138
+sS'LI'
+p139
+S"<class 'gluon.html.LI'>"
+p140
+sS'PRE'
+p141
+S"<class 'gluon.html.PRE'>"
+p142
+sS'IS_INT_IN_RANGE'
+p143
+S"<class 'gluon.validators.IS_INT_IN_RANGE'>"
+p144
+sS'to_bytes'
+p145
+S'<function to_bytes>'
+p146
+sS'IS_LOWER'
+p147
+S"<class 'gluon.validators.IS_LOWER'>"
+p148
+sS'IS_STRONG'
+p149
+S"<class 'gluon.validators.IS_STRONG'>"
+p150
+sS'cache'
+p151
+S'<gluon.cache.Cache object>'
+p152
+sS'IS_IN_DB'
+p153
+S"<class 'gluon.validators.IS_IN_DB'>"
+p154
+sS'TAG'
+p155
+S'<gluon.html.__TAG__ object>'
+p156
+sS'SQLField'
+p157
+S"<class 'pydal.objects.Field'>"
+p158
+sS'mail'
+p159
+S'<gluon.tools.Mail object>'
+p160
+sS'BODY'
+p161
+S"<class 'gluon.html.BODY'>"
+p162
+sS'IS_DATE_IN_RANGE'
+p163
+S"<class 'gluon.validators.IS_DATE_IN_RANGE'>"
+p164
+sS'TH'
+p165
+S"<class 'gluon.html.TH'>"
+p166
+sS'URL'
+p167
+S'<function URL>'
+p168
+sS'__file__'
+p169
+S"r'C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\models\\valitadors.py'"
+p170
+sS'db'
+p171
+S'<DAL uri="sqlite://storage.sqlite">'
+p172
+sS'auth'
+p173
+S'<gluon.tools.Auth object>'
+p174
+sS'P'
+S"<class 'gluon.html.P'>"
+p175
+sS'TFOOT'
+p176
+S"<class 'gluon.html.TFOOT'>"
+p177
+sS'iteritems'
+p178
+S'<function <lambda>>'
+p179
+sS'XHTML'
+p180
+S"<class 'gluon.html.XHTML'>"
+p181
+sS'ON'
+p182
+g125
+sS'OL'
+p183
+S"<class 'gluon.html.OL'>"
+p184
+sS'TEXTAREA'
+p185
+S"<class 'gluon.html.TEXTAREA'>"
+p186
+sS'MENU'
+p187
+S"<class 'gluon.html.MENU'>"
+p188
+sS'LOAD'
+p189
+S'<function LOAD>'
+p190
+sS'CODE'
+p191
+S"<class 'gluon.html.CODE'>"
+p192
+sS'HTTP'
+p193
+S"<class 'gluon.http.HTTP'>"
+p194
+sS'HR'
+p195
+S"<class 'gluon.html.HR'>"
+p196
+sS'IS_DATETIME'
+p197
+S"<class 'gluon.validators.IS_DATETIME'>"
+p198
+sS'reduce'
+p199
+S'<built-in function reduce>'
+p200
+sS'IS_FLOAT_IN_RANGE'
+p201
+S"<class 'gluon.validators.IS_FLOAT_IN_RANGE'>"
+p202
+sS'LABEL'
+p203
+S"<class 'gluon.html.LABEL'>"
+p204
+sS'CLEANUP'
+p205
+S"<class 'gluon.validators.CLEANUP'>"
+p206
+sS'plugins'
+p207
+S'<gluon.tools.PluginManager object>'
+p208
+sS'SELECT'
+p209
+S"<class 'gluon.html.SELECT'>"
+p210
+sS'CENTER'
+p211
+S"<class 'gluon.html.CENTER'>"
+p212
+sS'Auth'
+p213
+S"<class 'gluon.tools.Auth'>"
+p214
+sS'DEVELOPMENT_MENU'
+p215
+g125
+sS'__builtins__'
+p216
+S"{'ArithmeticError': <type 'exceptions.ArithmeticError'>, 'AssertionError': <type 'exceptions.AssertionError'>, 'AttributeError': <type 'exceptions.AttributeError'>, 'BaseException': <type 'exceptions.BaseException'>, 'BufferError': <type 'exceptions.BufferError'>, 'BytesWarning': <type 'exceptions.BytesWarning'>, 'DeprecationWarning': <type 'exceptions.DeprecationWarning'>, 'EOFError': <type 'exceptions.EOFError'>, 'Ellipsis': Ellipsis, 'EnvironmentError': <type 'exceptions.EnvironmentError'>, ...}"
+p217
+sS'HTML'
+p218
+S"<class 'gluon.html.HTML'>"
+p219
+sS'SQLFORM'
+p220
+S"<class 'gluon.sqlhtml.SQLFORM'>"
+p221
+sS'EM'
+p222
+S"<class 'gluon.html.EM'>"
+p223
+sS'redirect'
+p224
+S'<function redirect>'
+p225
+sS'FIELDSET'
+p226
+S"<class 'gluon.html.FIELDSET'>"
+p227
+sS'IS_EQUAL_TO'
+p228
+S"<class 'gluon.validators.IS_EQUAL_TO'>"
+p229
+sS'HEAD'
+p230
+S"<class 'gluon.html.HEAD'>"
+p231
+sS'FORM'
+p232
+S"<class 'gluon.html.FORM'>"
+p233
+sS'embed64'
+p234
+S'<function embed64>'
+p235
+sS'IS_LIST_OF'
+p236
+S"<class 'gluon.validators.IS_LIST_OF'>"
+p237
+sS'__name__'
+p238
+S"'__restricted__'"
+p239
+sS'EMBED'
+p240
+S"<class 'gluon.html.EMBED'>"
+p241
+sS'_'
+S'<function _>'
+p242
+sS'CarrosFinanciados'
+p243
+S'<Table carros_financiados (id, carro, banco, retorno)>'
+p244
+sS'myconf'
+p245
+S"{'forms': {'formstyle': 'bootstrap3_inline', 'se...': {'names': 'localhost:*, 127.0.0.1:*, *:*, *'}}"
+p246
+sS'H2'
+p247
+S"<class 'gluon.html.H2'>"
+p248
+sS'H3'
+p249
+S"<class 'gluon.html.H3'>"
+p250
+sS'AppConfig'
+p251
+S'<function AppConfig>'
+p252
+sS'H1'
+p253
+S"<class 'gluon.html.H1'>"
+p254
+sS'H6'
+p255
+S"<class 'gluon.html.H6'>"
+p256
+sS'H4'
+p257
+S"<class 'gluon.html.H4'>"
+p258
+sS'H5'
+p259
+S"<class 'gluon.html.H5'>"
+p260
+sS'UL'
+p261
+S"<class 'gluon.html.UL'>"
+p262
+sS'Clientes'
+p263
+S'<Table clientes (id, cpf, nome, s_nome, telefone, rua, numero, cidade, bairro, cep, uf, email)>'
+p264
+sS'xmlescape'
+p265
+S'<function xmlescape>'
+p266
+sS'IS_TIME'
+p267
+S"<class 'gluon.validators.IS_TIME'>"
+p268
+sS'CarrosVendidos'
+p269
+S'<Table carros_vendidos (id, carro, data_venda, c...alor_venda, forma_pagamento, funcionario, lucro)>'
+p270
+sS'OPTION'
+p271
+S"<class 'gluon.html.OPTION'>"
+p272
+sS'TITLE'
+p273
+S"<class 'gluon.html.TITLE'>"
+p274
+sS'CRYPT'
+p275
+S"<class 'gluon.validators.CRYPT'>"
+p276
+sS'IS_EMPTY_OR'
+p277
+S"<class 'gluon.validators.IS_EMPTY_OR'>"
+p278
+sS'MARKMIN'
+p279
+S"<class 'gluon.html.MARKMIN'>"
+p280
+sS'INPUT'
+p281
+S"<class 'gluon.html.INPUT'>"
+p282
+sS'STRONG'
+p283
+S"<class 'gluon.html.STRONG'>"
+p284
+sS'COL'
+p285
+S"<class 'gluon.html.COL'>"
+p286
+sS'service'
+p287
+S'<gluon.tools.Service object>'
+p288
+sS'SCRIPT'
+p289
+S"<class 'gluon.html.SCRIPT'>"
+p290
+sS'TABLE'
+p291
+S"<class 'gluon.html.TABLE'>"
+p292
+sS'IS_IPV4'
+p293
+S"<class 'gluon.validators.IS_IPV4'>"
+p294
+sS'IS_LENGTH'
+p295
+S"<class 'gluon.validators.IS_LENGTH'>"
+p296
+sS'IS_IPV6'
+p297
+S"<class 'gluon.validators.IS_IPV6'>"
+p298
+sS'XML'
+p299
+S"<class 'gluon.html.XML'>"
+p300
+sS'B'
+S"<class 'gluon.html.B'>"
+p301
+sS'IMG'
+p302
+S"<class 'gluon.html.IMG'>"
+p303
+sS'SQLTABLE'
+p304
+S"<class 'gluon.sqlhtml.SQLTABLE'>"
+p305
+sS'IS_MATCH'
+p306
+S"<class 'gluon.validators.IS_MATCH'>"
+p307
+sS'IS_ALPHANUMERIC'
+p308
+S"<class 'gluon.validators.IS_ALPHANUMERIC'>"
+p309
+sS'Despesas'
+p310
+S'<Table despesas (id, carro, despesa, valor_despesa)>'
+p311
+sS'CarrosConsig'
+p312
+S'<Table carros_consig (id, carro, data_retirada)>'
+p313
+sS'SPAN'
+p314
+S"<class 'gluon.html.SPAN'>"
+p315
+sS'IS_JSON'
+p316
+S"<class 'gluon.validators.IS_JSON'>"
+p317
+sS'IS_IPADDRESS'
+p318
+S"<class 'gluon.validators.IS_IPADDRESS'>"
+p319
+sS'IS_SLUG'
+p320
+S"<class 'gluon.validators.IS_SLUG'>"
+p321
+sS'BEAUTIFY'
+p322
+S"<class 'gluon.html.BEAUTIFY'>"
+p323
+sS'META'
+p324
+S"<class 'gluon.html.META'>"
+p325
+sS'BUTTON'
+p326
+S"<class 'gluon.html.BUTTON'>"
+p327
+sS'IS_DATE'
+p328
+S"<class 'gluon.validators.IS_DATE'>"
+p329
+sS'IS_EMAIL'
+p330
+S"<class 'gluon.validators.IS_EMAIL'>"
+p331
+sS'IS_NOT_EMPTY'
+p332
+S"<class 'gluon.validators.IS_NOT_EMPTY'>"
+p333
+sS'xrange'
+p334
+S"<type 'xrange'>"
+p335
+sS'TBODY'
+p336
+S"<class 'gluon.html.TBODY'>"
+p337
+sS'CAT'
+p338
+S"<class 'gluon.html.CAT'>"
+p339
+sS'Field'
+p340
+S"<class 'pydal.objects.Field'>"
+p341
+sS'IS_LIST_OF_EMAILS'
+p342
+S"<class 'gluon.validators.IS_LIST_OF_EMAILS'>"
+p343
+sS'DIV'
+p344
+S"<class 'gluon.html.DIV'>"
+p345
+sS'LEGEND'
+p346
+S"<class 'gluon.html.LEGEND'>"
+p347
+sS'to_native'
+p348
+S'<function to_native>'
+p349
+sS'COLGROUP'
+p350
+S"<class 'gluon.html.COLGROUP'>"
+p351
+sS'DAL'
+p352
+S"<class 'pydal.base.DAL'>"
+p353
+sS'ASSIGNJS'
+p354
+S'<function ASSIGNJS>'
+p355
+sS'TR'
+p356
+S"<class 'gluon.html.TR'>"
+p357
+sS'__package__'
+p358
+S'None'
+p359
+sS'CarrosEstoque'
+p360
+S'<Table carros_estoque (id, carro, valor_compra, despesa_total)>'
+p361
+sS'IFRAME'
+p362
+S"<class 'gluon.html.IFRAME'>"
+p363
+sS'TD'
+p364
+S"<class 'gluon.html.TD'>"
+p365
+sS'PluginManager'
+p366
+S"<class 'gluon.tools.PluginManager'>"
+p367
+sS'IS_URL'
+p368
+S"<class 'gluon.validators.IS_URL'>"
+p369
+sS'IS_UPPER'
+p370
+S"<class 'gluon.validators.IS_UPPER'>"
+p371
+sS'A'
+S"<class 'gluon.html.A'>"
+p372
+sS'STYLE'
+p373
+S"<class 'gluon.html.STYLE'>"
+p374
+sS'IS_DATETIME_IN_RANGE'
+p375
+S"<class 'gluon.validators.IS_DATETIME_IN_RANGE'>"
+p376
+sS'IS_IMAGE'
+p377
+S"<class 'gluon.validators.IS_IMAGE'>"
+p378
+sS'I'
+S"<class 'gluon.html.I'>"
+p379
+sS'IS_NOT_IN_DB'
+p380
+S"<class 'gluon.validators.IS_NOT_IN_DB'>"
+p381
+sg118
+S"<Storage {'body': <cStringIO.StringO object at 0... 0x04243670>, 'view': 'default/nova_venda.html'}>"
+p382
+sS'THEAD'
+p383
+S"<class 'gluon.html.THEAD'>"
+p384
+sS'ANY_OF'
+p385
+S"<class 'gluon.validators.ANY_OF'>"
+p386
+sS'IS_NULL_OR'
+p387
+S"<class 'gluon.validators.IS_EMPTY_OR'>"
+p388
+sg58
+S"<Storage {'_vars': None, 'function': 'nova_venda...s\\\\Backend\\\\RAFA\\\\web2py\\\\applications\\\\RAFA\\\\'}>"
+p389
+sS'IS_EXPR'
+p390
+S"<class 'gluon.validators.IS_EXPR'>"
+p391
+sS'IS_IN_SET'
+p392
+S"<class 'gluon.validators.IS_IN_SET'>"
+p393
+sS'Carros'
+p394
+S'<Table carros (id, placa, ano, modelo, renavan, ...ta_entrada, chave_reserva, manual_carro, recibo)>'
+p395
+sS'IS_UPLOAD_FILENAME'
+p396
+S"<class 'gluon.validators.IS_UPLOAD_FILENAME'>"
+p397
+sS'IS_DECIMAL_IN_RANGE'
+p398
+S"<class 'gluon.validators.IS_DECIMAL_IN_RANGE'>"
+p399
+sS'TT'
+p400
+S"<class 'gluon.html.TT'>"
+p401
+sS'T'
+S'<gluon.languages.translator object>'
+p402
+sssS'traceback'
+p403
+S'Traceback (most recent call last):\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\Gabriel\\Documents\\Backend\\RAFA\\web2py\\applications\\RAFA\\models\\valitadors.py", line 20, in <module>\n    CarrosVendidos.camissao.requires = IS_NOT_EMPTY()\nAttributeError: \'Table\' object has no attribute \'camissao\'\n'
+p404
+s.

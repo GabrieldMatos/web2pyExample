@@ -1,0 +1,33 @@
+{{extend 'layout.html'}}
+
+<h1>Carros consignados</h1>
+{{
+if not request.args:
+
+ w2p_grid_tbl = grid.element('table')
+ if w2p_grid_tbl:
+ original_export_menu = grid.element('div.w2p_export_menu')
+ export_menu_links = original_export_menu.elements('a')
+ export_menu_items = []
+ for link in export_menu_links:
+ item = LI(link)
+ export_menu_items.append(item)
+ pass
+ new_export_menu = DIV(
+                      A( T('Exports'),
+                         SPAN(_class='caret'),
+                         _href='#',
+                         _class='btn dropdown-toggle',
+                         **{'_data-toggle':"dropdown"}
+                        ),
+                      UL(*export_menu_items,
+                         _class='dropdown-menu'
+                        ),
+                    _class='w2p_export_menu btn-group'
+                    )
+ export_menu = grid.element('div.w2p_export_menu',replace=new_export_menu)
+ pass
+pass
+}}
+
+{{=grid}}

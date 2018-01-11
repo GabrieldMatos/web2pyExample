@@ -1,0 +1,42 @@
+# -*- coding: utf-8 -*-
+## Validadores de Carros
+Carros.placa.requires = [IS_NOT_EMPTY(),
+IS_NOT_IN_DB(db, 'carros.placa')]
+Carros.chassi.requires = IS_NOT_EMPTY()
+Carros.data_entrada.requires = IS_DATETIME(format='%d/%m/%Y')
+Carros.cor.requires = IS_NOT_EMPTY()
+Carros.valor_compra.requires = IS_NOT_EMPTY()
+Carros.chave_reserva.requires = IS_NOT_EMPTY()
+Carros.ultimo_proprietario.requires = IS_NOT_EMPTY()
+Carros.financiado.requires = IS_NOT_EMPTY()
+Carros.chave_reserva.requires = IS_NOT_EMPTY()
+Carros.manualcarro.requires = IS_NOT_EMPTY()
+Carros.recibo.requires = IS_NOT_EMPTY()
+Carros.despesa_total.requires = IS_NOT_EMPTY()
+
+
+## Validadores de Estoque
+CarrosEstoque.carro.requires = IS_IN_DB(db, 'carros.id', '%(placa)s')
+
+## Validadores de consignado
+CarrosConsig.carro.requires = IS_IN_DB(db, 'carros.id', '%(placa)s')
+
+## Validadores de venda
+CarrosVendidos.carro.requires = IS_IN_DB(db, 'carros.id', '%(placa)s')
+CarrosVendidos.data_venda.requires = IS_DATETIME(format='%d/%m/%Y')
+CarrosVendidos.comprador.requires = IS_IN_DB(db, 'clientes.id', '%(nome)s %(s_nome)s')
+CarrosVendidos.funcionario.requires = IS_IN_DB(db, 'auth_user.id', '%(first_name)s %(last_name)s')
+CarrosVendidos.valor_venda.requires = IS_NOT_EMPTY()
+
+## Validadores de Cliente
+Clientes.cpf.requires = [IS_NOT_EMPTY(),
+IS_NOT_IN_DB(db, 'clientes.cpf')]
+Clientes.nome.requires = IS_NOT_EMPTY()
+Clientes.s_nome.requires = IS_NOT_EMPTY()
+Clientes.telefone.requires = IS_NOT_EMPTY()
+Clientes.rua.requires = IS_NOT_EMPTY()
+Clientes.numero.requires = IS_NOT_EMPTY()
+Clientes.cidade.requires = IS_NOT_EMPTY()
+Clientes.bairro.requires = IS_NOT_EMPTY()
+Clientes.cep.requires = IS_NOT_EMPTY()
+Clientes.uf.requires = IS_IN_SET(['AC','AL','AP','AM','BA','CE','DF','ES','GO', 'MA','MT','MS','MG','PA','PB','PR','PE','PI','RJ','RN','RS','RO','RR','SC','SP','SE','TO'])
